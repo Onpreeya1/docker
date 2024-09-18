@@ -1,0 +1,13 @@
+docker ps --all ยังทำงานอยู่
+docker ps 
+docker -v
+docker stop 8e778686a087
+docker run busybox ping google.com
+docker run busybox ls
+docker run hello-world
+docker system prund
+docker run -p 80:80nginx
+docker run -p 9000:80nginx
+docker run --name my
+docker logs 
+ docker  images inspect nginx
